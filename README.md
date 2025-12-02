@@ -1,12 +1,11 @@
 # Project Responsive Web Design using Bootstrap
-## Date:
-
+## Date: 20.11.2025
+## Developed by : AKASH G
+## Register No. : 212224100004
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
 
-
 ## DESIGN STEPS:
-
 ### Step 1:
 Clone the repository from GitHub.
 
@@ -74,65 +73,65 @@ Publish the website in the LocalHost.
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-4">
                 <div class="col">
                     <div class="card">
-                        <img src="1.jpg" class="card-img-top" alt="Placeholder">
+                        <img src="brb.png" class="card-img-top" alt="Placeholder">
                         <div class="card-body">
-                            <h6 class="card-title">Joker</h6>
+                            <h6 class="card-title">Breaking Bad</h6>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="card">
-                        <img src="2.jpeg" class="card-img-top" alt="Placeholder">
+                        <img src="Far.png" class="card-img-top" alt="Placeholder">
                         <div class="card-body">
-                            <h6 class="card-title">Kill Bill</h6>
+                            <h6 class="card-title">Farzi</h6>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="card">
-                        <img src="3.jpg" class="card-img-top" alt="Placeholder">
+                        <img src="fml.png" class="card-img-top" alt="Placeholder">
                         <div class="card-body">
-                            <h6 class="card-title">Hobbit</h6>
+                            <h6 class="card-title">The Family man</h6>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="card">
-                        <img src="4.webp" class="card-img-top" alt="Placeholder">
+                        <img src="got.png" class="card-img-top" alt="Placeholder">
                         <div class="card-body">
-                            <h6 class="card-title">Inglorius Bastards</h6>
+                            <h6 class="card-title">The Game of Thrones</h6>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="card">
-                        <img src="5.jpg" class="card-img-top" alt="Placeholder">
+                        <img src="money.png" class="card-img-top" alt="Placeholder">
                         <div class="card-body">
-                            <h6 class="card-title">Forest Gump</h6>
+                            <h6 class="card-title">Money Heist</h6>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="card">
-                        <img src="6.jpg" class="card-img-top" alt="Placeholder">
+                        <img src="squ.png" class="card-img-top" alt="Placeholder">
                         <div class="card-body">
-                            <h6 class="card-title">Ready Player One</h6>
+                            <h6 class="card-title">Squid Game</h6>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="card">
-                        <img src="7.jpg" class="card-img-top" alt="Placeholder">
+                        <img src="str.png" class="card-img-top" alt="Placeholder">
                         <div class="card-body">
-                            <h6 class="card-title">Jurassic Park</h6>
+                            <h6 class="card-title">The Stranger Things</h6>
                         </div>
                     </div>
                 </div>
                 <div class="col">
                     <div class="card">
-                        <img src="8.jpg" class="card-img-top" alt="Placeholder">
+                        <img src="wed.png" class="card-img-top" alt="Placeholder">
                         <div class="card-body">
-                            <h6 class="card-title">Insidious</h6>
+                            <h6 class="card-title">Wednesday</h6>
                         </div>
                     </div>
                 </div>
@@ -159,7 +158,7 @@ Publish the website in the LocalHost.
             </div>
         </section>
         <footer class="bg-dark text-white text-center py-3">
-            <p>&copy; Designed and Developed by KAMLESH Y</p>
+            <p>&copy; Designed and Developed by AKASH G</p>
         </footer>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     </body>
@@ -167,6 +166,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
+<img width="1440" height="900" alt="Screenshot 2025-12-02 at 1 31 10 PM" src="https://github.com/user-attachments/assets/810381f7-fa5d-4c79-ab38-dda6542d235c" />
+<img width="1440" height="900" alt="Screenshot 2025-12-02 at 1 31 17 PM" src="https://github.com/user-attachments/assets/6e7ae21a-b46f-46a6-abb9-55674fb0c85c" />
 
 
 ## RESULT:
